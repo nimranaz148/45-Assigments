@@ -3,7 +3,7 @@ let personName :string ='';
 
 
 
-
+// if condition
  if(personName !== null && personName !==''){
 
 
@@ -15,3 +15,4 @@ let personName :string ='';
 
     console.log('you have to fill your name !');
  }
+
